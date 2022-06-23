@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "893216785761",
+    "project_id": "ndri-project-e7d73",
+    "storage_bucket": "ndri-project-e7d73.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:893216785761:android:078ba07eb7c7d0a579b120",
+        "android_client_info": {
+          "package_name": "com.example.newapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "893216785761-3ajlga3ohdisshe8ol5b21g79hp08k2c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAn3u4779ZboxcdX9Flu1q0j5GDuVg8NY0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "893216785761-3ajlga3ohdisshe8ol5b21g79hp08k2c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
